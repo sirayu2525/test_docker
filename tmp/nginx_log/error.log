@@ -1,0 +1,2 @@
+2025/01/16 18:07:49 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET / HTTP/1.1", upstream: "uwsgi://172.21.0.2:3031", host: "localhost:4231"
+2025/01/16 18:07:49 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.21.0.2:3031", host: "localhost:4231", referrer: "http://localhost:4231/"

@@ -1,0 +1,2 @@
+172.21.0.1 - - [16/Jan/2025:18:07:49 +0900] "GET / HTTP/1.1" 502 559 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" "-"
+172.21.0.1 - - [16/Jan/2025:18:07:49 +0900] "GET /favicon.ico HTTP/1.1" 502 559 "http://localhost:4231/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" "-"
