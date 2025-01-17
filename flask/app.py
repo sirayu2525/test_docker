@@ -24,10 +24,3 @@ def event():
 @app.route("/event01")
 def event01():
     return render_template('event01.html')
-
-# uwsgiがこのapplicationオブジェクトを使ってアプリケーションを実行します
-# application という名前で app をエイリアスします。uwsgi はデフォルトで application という名前のオブジェクトを探します。
-# application = app
-
-# if __name__ == "__main__":
-#     app.run()

@@ -25,3 +25,6 @@
 2025/01/17 14:54:45 [emerg] 1#1: duplicate location "/" in /etc/nginx/nginx.conf:57
 2025/01/17 14:58:41 [emerg] 1#1: duplicate location "/" in /etc/nginx/nginx.conf:57
 2025/01/17 15:05:16 [emerg] 1#1: duplicate location "/" in /etc/nginx/nginx.conf:57
+2025/01/17 15:23:12 [emerg] 1#1: duplicate location "/" in /etc/nginx/nginx.conf:57
+2025/01/17 15:23:29 [emerg] 1#1: duplicate location "/" in /etc/nginx/nginx.conf:57
+2025/01/17 15:24:46 [emerg] 1#1: duplicate location "/" in /etc/nginx/nginx.conf:57
