@@ -9,4 +9,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["uwsgi", "--http", "0.0.0.0:5000", "--wsgi-file", "app.py", "--callable", "app"]
+# uwsgi.ini を利用してuWSGIを起動
+CMD ["uwsgi", "--ini", "uwsgi.ini"]
